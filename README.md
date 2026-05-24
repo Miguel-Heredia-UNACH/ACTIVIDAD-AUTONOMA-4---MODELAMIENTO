@@ -6,3 +6,7 @@ Este repositorio contiene la Actividad Autónoma 4 de la Unidad 2. Se incluye un
 
 Archivos principales:
 - codigo_original.py: Notebook con todo el código y gráficas.
+- analisis_primos.ipynb: Notebook con todo el código y gráficas.
+- DOCUMENTACION.PDF: Informe detallado de los resultados.
+- gráfico_tiempos.txt: gráfica obtenida al comparar los dos tiempos.
+- profiling_optimizado.txt: Resultados del análisis con cProfile."
