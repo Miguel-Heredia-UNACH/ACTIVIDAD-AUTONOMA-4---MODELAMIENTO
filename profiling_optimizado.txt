@@ -1,0 +1,36 @@
+         56 function calls in 0.001 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.001    0.001 675330439.py:1(buscar_primos_optimizado)
+        1    0.000    0.000    0.000    0.000 {method 'tolist' of 'numpy.ndarray' objects}
+        1    0.000    0.000    0.000    0.000 {method 'nonzero' of 'numpy.ndarray' objects}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.compile}
+        1    0.000    0.000    0.001    0.001 4271519845.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 numeric.py:170(ones)
+        2    0.000    0.000    0.000    0.000 codeop.py:120(__call__)
+        1    0.000    0.000    0.000    0.000 {built-in method numpy.empty}
+        2    0.000    0.000    0.001    0.000 interactiveshell.py:3663(run_code)
+        2    0.000    0.000    0.000    0.000 contextlib.py:104(__init__)
+        4    0.000    0.000    0.000    0.000 compilerop.py:180(extra_flags)
+        2    0.000    0.000    0.000    0.000 contextlib.py:141(__exit__)
+        1    0.000    0.000    0.000    0.000 fromnumeric.py:48(_wrapfunc)
+        2    0.000    0.000    0.000    0.000 contextlib.py:299(helper)
+        2    0.000    0.000    0.000    0.000 traitlets.py:676(__get__)
+        2    0.000    0.000    0.000    0.000 traitlets.py:629(get)
+        2    0.000    0.000    0.000    0.000 contextlib.py:132(__enter__)
+        5    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        2    0.000    0.000    0.001    0.000 {built-in method builtins.exec}
+        4    0.000    0.000    0.000    0.000 {built-in method builtins.next}
+        1    0.000    0.000    0.000    0.000 fromnumeric.py:1993(nonzero)
+        2    0.000    0.000    0.000    0.000 interactiveshell.py:3615(compare)
+        2    0.000    0.000    0.000    0.000 interactiveshell.py:1299(user_global_ns)
+        4    0.000    0.000    0.000    0.000 typing.py:2287(cast)
+        2    0.000    0.000    0.000    0.000 interactiveshell.py:685(user_ns)
+        1    0.000    0.000    0.000    0.000 fromnumeric.py:1989(_nonzero_dispatcher)
+        2    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 multiarray.py:1085(copyto)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
