@@ -1,4 +1,4 @@
-"# Optimización de Algoritmos - Actividad Autónoma 4
+# Optimización de Algoritmos - Actividad Autónoma 4
 Estudiante: Miguel Heredia
 Carrera: Ciencia de Datos
 
